@@ -19,7 +19,12 @@
       <li> Fill your portfolio with impressive case studies that will come in handy during interviews</li>
       </ul>
     </td>
-  </tr> 
+  </tr>
+  <tr>
+    <td colspan="2"> 
+      <img src="https://github.com/PacktPublishing/The-Kaggle-Workbook/blob/main/Kaggle WB.png?raw=true">
+    </td>
+  </tr>  
 </table>
 
 ## Getting started
@@ -54,8 +59,11 @@ To run these notebooks on a cloud platform, just click on one of the badges (Col
 |03| Vision Competition: Cassava Leaf Disease Competition | [ch3-end-to-end-image-classification](https://www.kaggle.com/code/konradb/ch3-end-to-end-image-classification)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/The-Kaggle-Workbook/blob/main/chapter_03/ch3-end-to-end-image-classification.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/PacktPublishing/The-Kaggle-Workbook/blob/main/chapter_03/ch3-end-to-end-image-classification.ipynb)|
 |04| NLP Competition – Google Quest Q&A Labeling | [ch4-end-to-end-nlp](https://www.kaggle.com/code/konradb/ch4-end-to-end-nlp) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/The-Kaggle-Workbook/blob/main/chapter_04/ch4-end-to-end-nlp.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/PacktPublishing/The-Kaggle-Workbook/blob/main/chapter_04/ch4-end-to-end-nlp.ipynb)|
 
+## Join our Discord server <img alt="Coding" height="25" width="32"  src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif">
 
-## Book Description
+Join our Discord community to meet like-minded people and learn alongside more than 2000 members at [Discord](https://packt.link/KaggleDiscord) <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
+
+## Book description
 More than 80,000 Kaggle novices currently participate in Kaggle competitions. To help them navigate the often-overwhelming world of Kaggle, two Grandmasters put their heads together to write The Kaggle Book. The first guidebook on techniques for success has since made plenty of waves in the community. Now, they’ve come back with an even more practical approach based on hands-on exercises that can help you start thinking like an experienced data scientist.
 
 In this book, you’ll get up close and personal with four extensive case studies based on past Kaggle competitions. You’ll:
@@ -78,12 +86,12 @@ You can use this workbook as a supplement alongside the Kaggle Book or on its ow
 * Sharpen your knowledge of time-series forecasting
 * Challenge yourself to become a better data scientist
 
-## Who This Book Is For
+## Who this book is for
 If you’re new to Kaggle and want to sink your teeth into practical exercises, start with The Kaggle Book, first. A basic understanding of the Kaggle platform, along with knowledge of machine learning and data science is a prerequisite.
 
 This book is suitable for anyone starting their Kaggle journey or veterans trying to get better at it. Data analysts/scientists who want to do better in Kaggle competitions and secure jobs with tech giants will find this book helpful.
 
-## Table of Contents
+## Table of contents
 
 1.	The Most Renowned Tabular Competition – Porto Seguro’s Safe Driver Prediction
 2.	The Makridakis Competitions – M5 on Kaggle for Accuracy and Uncertainty
