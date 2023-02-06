@@ -20,11 +20,7 @@
       </ul>
     </td>
   </tr>
-  <tr>
-    <td colspan="2"> 
-      <img src="https://github.com/PacktPublishing/The-Kaggle-Workbook/blob/main/Kaggle WB.png?raw=true">
-    </td>
-  </tr>  
+  
 </table>
 
 ## Getting started
@@ -61,7 +57,7 @@ To run these notebooks on a cloud platform, just click on one of the badges (Col
 
 ## Join our Discord server <img alt="Coding" height="25" width="32"  src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif">
 
-Join our Discord community to meet like-minded people and learn alongside more than 2000 members at [Discord](https://packt.link/KaggleDiscord) <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
+Join our Discord community to meet like-minded people and learn alongside more than 3000 members at [Discord](https://packt.link/KaggleDiscord) <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
 
 ## Book description
 More than 80,000 Kaggle novices currently participate in Kaggle competitions. To help them navigate the often-overwhelming world of Kaggle, two Grandmasters put their heads together to write The Kaggle Book. The first guidebook on techniques for success has since made plenty of waves in the community. Now, they’ve come back with an even more practical approach based on hands-on exercises that can help you start thinking like an experienced data scientist.
@@ -98,3 +94,10 @@ This book is suitable for anyone starting their Kaggle journey or veterans tryin
 3.	Vision Competition: Cassava Leaf Disease Competition
 4.	NLP Competition – Google Quest Q&A Labeling
 
+<table class="noBorder">
+  <tr>
+    <td colspan="2"> 
+      <img src="https://github.com/PacktPublishing/The-Kaggle-Workbook/blob/main/KaggleWB.png?raw=true">
+    </td>
+  </tr>  
+</table>
