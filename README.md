@@ -22,6 +22,35 @@
   </tr> 
 </table>
 
+## Getting started
+
+
+
+You can run these notebooks on cloud platforms like [Kaggle](https://www.kaggle.com/) [Colab](https://colab.research.google.com/) or your local machine. Note that most chapters require a GPU even TPU sometimes to run in a reasonable amount of time, so we recommend one of the cloud platforms as they come pre-installed with CUDA.
+
+
+
+### Running on a cloud platform
+
+
+To run these notebooks on a cloud platform, just click on one of the badges (Colab or Kaggle) in the table below. The code will be reproduced from Github directly onto the choosen platform (you may have to add the necessary data before running it). Alternatively, we also provide links to the fully working original notebook on Kaggle that you can copy and immediately run.
+
+|no| Chapter | Notebook | Colab | Kaggle |
+|:--| :-------- | :-------- | :-------: | :-------: |
+|01| The Most Renowned Tabular Competition – Porto Seguro’s Safe Driver Prediction | [workbook-blend](https://www.kaggle.com/code/lucamassaron/workbook-blend) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/The-Kaggle-Workbook/blob/main/chapter_01/workbook-blend.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/PacktPublishing/The-Kaggle-Workbook/blob/main/chapter_01/workbook-blend.ipynb)|
+||| [workbook-dae](https://www.kaggle.com/code/lucamassaron/workbook-dae)  |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/The-Kaggle-Workbook/blob/main/chapter_01/workbook-dae.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/PacktPublishing/The-Kaggle-Workbook/blob/main/chapter_01/workbook-dae.ipynb)|
+||| [workbook-lgb](https://www.kaggle.com/code/lucamassaron/workbook-lgb) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/The-Kaggle-Workbook/blob/main/chapter_01/workbook-lgb.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/PacktPublishing/The-Kaggle-Workbook/blob/main/chapter_01/workbook-lgb.ipynb)|
+|02| The Makridakis Competitions – M5 on Kaggle for Accuracy and Uncertainty | [basic-optimization-practices](https://www.kaggle.com/code/lucamassaron/basic-optimization-practices) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/The-Kaggle-Book/blob/main/chapter_08/basic-optimization-practices.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/PacktPublishing/The-Kaggle-Book/blob/main/chapter_08/basic-optimization-practices.ipynb)|
+||  | [hacking-bayesian-optimization-for-dnns](https://www.kaggle.com/lucamassaron/hacking-bayesian-optimization-for-dnns) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/The-Kaggle-Book/blob/main/chapter_08/hacking-bayesian-optimization-for-dnns.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/PacktPublishing/The-Kaggle-Book/blob/main/chapter_08/hacking-bayesian-optimization-for-dnns.ipynb)|
+||  | [hacking-bayesian-optimization](https://www.kaggle.com/lucamassaron/hacking-bayesian-optimization) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/The-Kaggle-Book/blob/main/chapter_08/hacking-bayesian-optimization.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/PacktPublishing/The-Kaggle-Book/blob/main/chapter_08/hacking-bayesian-optimization.ipynb)|
+||  | [kerastuner-for-imdb](https://www.kaggle.com/lucamassaron/kerastuner-for-imdb/) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/The-Kaggle-Book/blob/main/chapter_08/kerastuner-for-imdb.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/PacktPublishing/The-Kaggle-Book/blob/main/chapter_08/kerastuner-for-imdb.ipynb)|
+||  | [optuna-bayesian-optimization](https://www.kaggle.com/lucamassaron/optuna-bayesian-optimization) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/The-Kaggle-Book/blob/main/chapter_08/optuna-bayesian-optimization.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/PacktPublishing/The-Kaggle-Book/blob/main/chapter_08/optuna-bayesian-optimization.ipynb)|
+||  | [scikit-optimize-for-lightgbm](https://www.kaggle.com/code/lucamassaron/scikit-optimize-for-lightgbm) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/The-Kaggle-Book/blob/main/chapter_08/scikit-optimize-for-lightgbm.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/PacktPublishing/The-Kaggle-Book/blob/main/chapter_08/scikit-optimize-for-lightgbm.ipynb)|
+||  | [tutorial-bayesian-optimization-with-lightgbm](https://www.kaggle.com/lucamassaron/tutorial-bayesian-optimization-with-lightgbm) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/The-Kaggle-Book/blob/main/chapter_08/tutorial-bayesian-optimization-with-lightgbm.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/PacktPublishing/The-Kaggle-Book/blob/main/chapter_08/tutorial-bayesian-optimization-with-lightgbm.ipynb)|
+|03| Vision Competition: Cassava Leaf Disease Competition | [ch3-end-to-end-image-classification](https://www.kaggle.com/code/konradb/ch3-end-to-end-image-classification)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/The-Kaggle-Workbook/blob/main/chapter_03/ch3-end-to-end-image-classification.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/PacktPublishing/The-Kaggle-Workbook/blob/main/chapter_03/ch3-end-to-end-image-classification.ipynb)|
+|04| NLP Competition – Google Quest Q&A Labeling | [ch4-end-to-end-nlp](https://www.kaggle.com/code/konradb/ch4-end-to-end-nlp) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/The-Kaggle-Workbook/blob/main/chapter_04/ch4-end-to-end-nlp.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/PacktPublishing/The-Kaggle-Workbook/blob/main/chapter_04/ch4-end-to-end-nlp.ipynb)|
+
+
 ## Book Description
 More than 80,000 Kaggle novices currently participate in Kaggle competitions. To help them navigate the often-overwhelming world of Kaggle, two Grandmasters put their heads together to write The Kaggle Book. The first guidebook on techniques for success has since made plenty of waves in the community. Now, they’ve come back with an even more practical approach based on hands-on exercises that can help you start thinking like an experienced data scientist.
 
@@ -52,8 +81,8 @@ This book is suitable for anyone starting their Kaggle journey or veterans tryin
 
 ## Table of Contents
 
-1.	The most renown tabular competition: Porto Seguro’s Safe Driver Prediction
-2.	The Makridakis competitions: M5 on Kaggle for accuracy and uncertainty
-3.	Vision competition: Cassava Leaf Disease classification
-4.	NLP competition: Quora insincere questions classification
+1.	The Most Renowned Tabular Competition – Porto Seguro’s Safe Driver Prediction
+2.	The Makridakis Competitions – M5 on Kaggle for Accuracy and Uncertainty
+3.	Vision Competition: Cassava Leaf Disease Competition
+4.	NLP Competition – Google Quest Q&A Labeling
 
