@@ -2,9 +2,6 @@
 <B>Code Repository for The Kaggle Workbook, Published by Packt</B>
 
 
-<EM>"Luca and Konradˈs book helps make Kaggle even more accessible. They are both top-ranked users and well-respected members of the Kaggle community. Those who complete this book should expect to be able to engage confidently on Kaggle – and engaging confidently on Kaggle has many rewards."</EM>
-<B>— Anthony Goldbloom, Kaggle Founder & CEO</B>
-
   
 <table class="noBorder">
   <tr>
